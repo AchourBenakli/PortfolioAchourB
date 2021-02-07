@@ -1,0 +1,95 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+body{
+  text-align: center;
+  justify-content: center;
+  font-family: 'Roboto';
+  margin-top: 2rem;
+  font-size: 1rem;
+  background: center no-repeat url('./images/time2.jpeg');
+  background-size: cover;
+height: 40rem;
+color: white;
+}
+
+h3{
+
+  margin-top: 26rem;
+}
+
+span{
+
+  font-size: 1.5rem;
+}
+
+#changer {
+  cursor: pointer;
+}
+
+
+/* #ville {
+  text-transform: capitalize;
+}
+
+#temperature {
+  font-size: 4em;
+}
+
+#changer {
+  background: rgba(178, 223, 251, .3);
+  cursor: pointer;
+}
+
+#button,
+i,
+#buttonDelete {
+  box-sizing: border-box;
+  text-align: center;
+  justify-content: center;
+  font-family: 'Roboto';
+  margin-left: 20rem;
+  font-size: 1rem;
+  padding: 0 1rem;
+}
+
+/* 
+/* Remove margins and padding from the list */
+/* ul {
+  margin: 0;
+  padding: 0;
+} */
+
+/* Style the list items */
+/* ul li {
+  cursor: pointer;
+  position: relative;
+  padding: 12px 8px 12px 40px;
+  background: #eee;
+  font-size: 18px;
+  transition: 0.2s;
+
+  /* make the list items unselectable */
+  /* -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+} */ 
+
+/* Set all odd list items to a different color (zebra-stripes) */
+/* ul li:nth-child(odd) {
+  background: #f9f9f9;
+} */
+
+/* Darker background-color on hover */
+/* ul li:hover {
+  background: #ddd;
+} */
+
+/* .addBtn {
+  cursor: pointer;
+}  */
